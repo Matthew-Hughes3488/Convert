@@ -1,5 +1,3 @@
-package com.bham.pij.assignments.converters;
-
 public class DecToBin extends Converters {
 	
 	public DecToBin(String input) {

@@ -1,14 +1,6 @@
-package com.bham.pij.assignments.converters.tests;
-
 import static org.junit.jupiter.api.Assertions.*;
-
 import java.util.ArrayList;
-
 import org.junit.jupiter.api.Test;
-
-import com.bham.pij.assignments.converters.Converter;
-import com.bham.pij.assignments.converters.InvalidFormatException;
-import com.bham.pij.assignments.converters.Converter.ConvertMode;
 
 public class ConverterTest {
 	

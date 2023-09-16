@@ -1,5 +1,3 @@
-package com.bham.pij.assignments.converters;
-
 public class HexToBin extends Converters {
 	
 	private String hexVals = ("0123456789ABCDEF");

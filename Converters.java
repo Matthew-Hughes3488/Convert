@@ -1,5 +1,3 @@
-package com.bham.pij.assignments.converters;
-
 public abstract class Converters {
 	
 	// used in classes BIN2HEX and HEX2BIN

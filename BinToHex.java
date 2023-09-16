@@ -1,9 +1,5 @@
-package com.bham.pij.assignments.converters;
-
 public class BinToHex extends Converters{
-	
-	
-	
+		
 	public BinToHex(String input) {
 		
 		if (isValid(input)) {
