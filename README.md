@@ -5,3 +5,5 @@ Binary to decimal
 Binary to hexadecimal
 Decimal to binary
 Hexadecimal to binary
+
+All tests come back successfull
